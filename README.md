@@ -1,11 +1,11 @@
-
-
-
-MongoMarket: MongoDB Database for Online Sales Transactions
+Tableau Data Visualization for International Student Trends
 
 Overview:
-This project, "MongoMarket," involves the development of a MongoDB database tailored for an online sales scenario. It encompasses four collections supporting business transactions, each 
-with meticulously designed schemas. The database facilitates over 40 documents, showcasing comprehensive data on products, customers, and transactions.
+Welcome to GlobalInsight, a Tableau-based project that explores and visualizes trends in incoming international students to the USA. Leveraging the power of Tableau, this project provides an in-depth analysis of factors such as demographics, visa types, and top origin countries.
 
-Tools and Technologies:
-MongoDB, MongoDB Compass, Visual Studio Code
+Features:
+
+Comprehensive Tableau dashboards offering insights into international student migration.
+Visual representation of trends in a user-friendly and interactive format.
+Data sourced and analyzed from diverse datasets for a holistic perspective.
+Business scenarios explored through dynamic charts, maps, and graphs.
