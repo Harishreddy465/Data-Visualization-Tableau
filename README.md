@@ -1,5 +1,5 @@
 
-Certainly! Here's a brief README for your MongoDB project:
+
 
 MongoMarket: MongoDB Database for Online Sales Transactions
 
